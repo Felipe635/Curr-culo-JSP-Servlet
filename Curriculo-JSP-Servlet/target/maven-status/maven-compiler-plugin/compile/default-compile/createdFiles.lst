@@ -1,0 +1,3 @@
+br\com\controller\FormServlet.class
+br\com\controller\CurriculoServlet.class
+br\com\controller\model\Curriculo.class
